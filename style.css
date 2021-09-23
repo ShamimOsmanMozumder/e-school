@@ -1,0 +1,101 @@
+.logo{
+    width: 198px;
+    height: 59px;
+    
+}
+
+.button{
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    background-color: #21B573;
+    border: none;
+    color: white;
+}
+
+.color-og{
+    background-color: #F0FFF0;
+}
+
+.text-style{
+    font-weight: bold;
+    
+}
+
+.get{
+    width: 153px;
+    height: 43px;
+    border-radius: 20px;
+    background-color: #21B573;
+    margin-top: 30px;
+    border: none;
+    color: white;
+}
+
+p{
+    color: grey;
+}
+
+.book, .student, .text, .student-2{
+    
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.student{
+    box-shadow:  5px 5px 10px silver;
+}
+
+.categories{
+    margin-top: 50px; 
+
+}
+
+.categories img{
+    height: 75;
+    width: 70;
+}
+
+.courses{
+    margin-top: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card{
+    margin-top: 50px;
+    border-radius: 18px;
+    margin-left: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(221, 218, 218);
+}
+
+.img-thumbnail{
+    border-radius: 11px;
+}
+
+.testimonial{
+    text-align: center;
+    margin-top: 120px;
+    font-weight: bold;
+}
+
+.man{
+    margin-top: 80px;
+    height: 190px;
+    width: 200px;
+    position: relative;
+    bottom: 25px;
+}
+
+.brif{
+    margin-right: 20px;
+    padding: 40px;
+    text-align: justify;
+    font-weight: bold;
+    color: black;
+}
+
